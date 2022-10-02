@@ -4,5 +4,5 @@ To keep track of the amount of waste generated and to ways to minimize them.
 npm install ,
 npm start
 # Run json server in separate terminal
-npm install -g jason-server ,  
-jason-server --watch db.jason --port 8000
+npm install -g json-server ,  
+jason-server --watch db.json --port 8000
