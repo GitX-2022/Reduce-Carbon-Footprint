@@ -1,4 +1,4 @@
-export const GETPOSTS = "https://jsonplaceholder.typicode.com/posts?_limit=12";
-export const CREATEPOST = "https://jsonplaceholder.typicode.com/posts";
+export const GETPOSTS = "http://localhost:8000/posts";
+export const CREATEPOST = "http://localhost:8000/posts/";
 export const GETPOST = (id) =>
-  `https://jsonplaceholder.typicode.com/posts/${id}`;
+  `http://localhost:8000/posts/${id}`;
