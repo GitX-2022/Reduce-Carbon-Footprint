@@ -1,0 +1,79 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Climate Change",
+      "body": "The Ecological Footprint framework addresses climate change in a \ncomprehensive way beyond measuring carbon emissions. It shows how carbon emissions compare and compete with \nother human demands on our planet, such as food, fibers, timber, and land for dwellings and roads."
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Carbon footprint",
+      "body": "Today, the term “carbon footprint” is often used as shorthand for the amount of carbon (usually in tonnes) being emitted by an activity or organization. \nThe carbon footprint is also an important component of the Ecological Footprint, since it is one competing demand \nfor biologically productive space. Carbon emissions from burning fossil fuel accumulate in the atmosphere \nif there is not enough biocapacity dedicated to absorb these emissions. Therefore, \nwhen the carbon footprint is reported within the context of the total Ecological Footprint, the tonnes of carbon dioxide \nemissions are expressed as the amount of productive land area required to sequester those carbon dioxide emissions. This tells us how \nmuch biocapacity is necessary to neutralize the emissions from burning fossil fuels."
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "How Ecological Footprint accounting helps us recognize that \nengaging in meaningful climate action is critical for our own success",
+      "body": "The Ecological Footprint is a simple metric. \nIt is also uniquely comprehensive. Not only does it measure humanity’s demand on our \nplanet’s ecosystems, but it is also key to understanding the \ninter-related pressures of climate change on the natural ecosystems \non which humanity depends."
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "The Carbon Footprint",
+      "body": "The carbon component of the Ecological Footprint—which we call the carbon Footprint—measures the \narea of forestland that is required to absorb all the \ncarbon emissions from human activity in excess of what the oceans already absorb (the carbon Footprint can also be \nexpressed in tonnes of CO2 emitted). Currently, the carbon Footprint makes up 60% of humanity’s Ecological Footprint.\n It is inextricably linked to the other components of the Ecological Footprint—cropland, \ngrazing land, forests and productive land built over with buildings \nand roads—since all these demands compete for space, as mentioned above."
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "title": "Mapping the impacts of decarbonization",
+      "body": "Mapping the world, a country, or even a city’s Ecological Footprint—its \nmaterial and energy dependence on biocapacity—provides a comprehensive view of the \ncompeting material demands on our planet as the world economy tackles climate change and weans itself off fossil fuels."
+    },
+    {
+      "userId": 1,
+      "id": 6,
+      "title": "Carbon footprint",
+      "body": "carbon footprint, amount of carbon dioxide (CO2) \nemissions associated with all the activities of a \nperson or other entity (e.g., building, corporation, country, etc.). It\n includes direct emissions, such as those that result from fossil-fuel combustion \nin manufacturing, heating, and transportation, \nas well as emissions required to produce the electricity associated with goods and \nservices consumed. In addition, the carbon footprint concept also often includes the emissions of \nother greenhouse gases, such as methane, \nnitrous oxide, or chlorofluorocarbons (CFCs)."
+    },
+    {
+      "userId": 1,
+      "id": 7,
+      "title": "reduce carbon footprint using AI",
+      "body": "Human activities are responsible for \nalmost all of the increase in greenhouse gases in the atmosphere over the last 150 years. The largest source of greenhouse\n gas emissions from human activities in the United States is from burning fossil fuels \nfor electricity, heat, and transportation"
+    },
+    {
+      "userId": 1,
+      "id": 8,
+      "title": "causes of carbon footprint",
+      "body": "Human activities are responsible for almost all of the increase \nin greenhouse gases in the atmosphere over the last 150 years.\n The largest source of greenhouse gas emissions \nfrom human activities in the United States is from burning fossil \nfuels for electricity, heat, and transportation"
+    },
+    {
+      "userId": 1,
+      "id": 9,
+      "title": "reducing your carbon footprint"
+      ,
+      "body": "reducing carbon emissions by learning the 5 R’s: \nrefuse, reduce, reuse, rot, recycle:"
+    },
+    {
+      "userId": 1,
+      "id": 10,
+      "title": "reduce carbon footprint ",
+      "body": "obvious solution is to switch to hybrid electric vehicles (HEVs),\n plug-in hybrid electric vehicles (PHEVs), and all-electric vehicles (EVs). \nThese vehicles typically produce lower tailpipe emissions compared to petrol or diesel vehicles. A study by the U.S. Department of Energy showed that \nthe annual emissions per EVs were less than 5000 pounds of CO2e, whereas those for PHEVs \nand HEVs 5500 and 6000 pounds of CO2e, respectively. In comparison, petrol and diesel vehicles generated annual emissions per vehicle exceeding 12,000 pounds of CO2e – more than double of carbon emissions from EVs, PHEVs and HEVs."
+    },
+    {
+      "userId": 2,
+      "id": 11,
+      "title": "Mapping the impacts of decarbonization",
+      "body": "Mapping the world, a country, or even a city’s Ecological Footprint—its material and energy dependence on biocapacity—provides a comprehensive view of the \ncompeting material demands on our planet as the world economy tackles \nclimate change and weans itself off fossil fuels."
+    },
+    {
+      "userId": 2,
+      "id": 12,
+      "title": "reducing your carbon footprint"
+      ,
+      "body": "reducing carbon emissions by learning the 5 R’s: \nrefuse, reduce, reuse, rot, recycle:"
+    }
+    
+  ]
+}
